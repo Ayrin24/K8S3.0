@@ -74,3 +74,4 @@ spec:
       - name: sc-storage
         persistentVolumeClaim:
           claimName: sc-pvc
+          
